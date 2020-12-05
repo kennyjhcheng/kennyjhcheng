@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am a second year Computer Science student studying at UBC.
+
+I am passionate about OOP with a firm grasp of several OOP languages such as Java and C++ and related design patterns.

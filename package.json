@@ -1,0 +1,19 @@
+{
+  "name": "kennyjhcheng",
+  "version": "1.0.0",
+  "description": "<!-- gif ref: https://slackmojis.com --> <h1><img src=\"https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596\" width=\"30\"/> Hey! Nice to see you.</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyjhcheng/kennyjhcheng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyjhcheng/kennyjhcheng/issues"
+  },
+  "homepage": "https://github.com/kennyjhcheng/kennyjhcheng#readme"
+}

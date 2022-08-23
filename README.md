@@ -24,6 +24,11 @@ https://github.com/thmsgbrt/thmsgbrt
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+
+<!-- Refs
+https://github.com/novatorem/novatorem
+ADD TOP TRACKS: https://github.com/natemoo-re/natemoo-re/blob/master/README.md
+ -->
 ### Spotify Playing 🎧
 
 &nbsp; <br> [![Spotify](https://readme-spotify-now-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/k5c5m5c5)

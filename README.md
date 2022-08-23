@@ -26,4 +26,4 @@ https://github.com/thmsgbrt/thmsgbrt
 
 ### Spotify Playing 🎧
 
-[<img src="https://readme-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/k5c5m5c5)
+&nbsp; <br> [![Spotify](https://readme-spotify-now-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/k5c5m5c5)

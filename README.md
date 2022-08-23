@@ -3,6 +3,16 @@
 
 I am a second year Computer Science student studying at the University of British Columbia.
 
+<h3>Connect with me</h3>
+
+[![Twitter Badge](https://img.shields.io/badge/-@kennyjhcheng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kennyjhcheng)](https://twitter.com/kennyjhcheng)
+[![Linkedin Badge](https://img.shields.io/badge/-kennyjhcheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennyjhcheng/)](https://www.linkedin.com/in/kennyjhcheng/)
+[![Github Badge](https://img.shields.io/badge/-kennyjhcheng-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kennyjhcheng)](https://github.com/kennyjhcheng)
+[![Instagram Badge](https://img.shields.io/badge/-__kennycheng_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_kennycheng/)](https://www.instagram.com/_kennycheng/)
+[![Gmail Badge](https://img.shields.io/badge/-kennyjiahuacheng-D14836?style=flat-square&logo=gmail&logoColor=white&link=kennyjiahuacheng@gmail.com)](mailto:kennyjiahuacheng@gmail.com)
+[![Devpost Badge](https://img.shields.io/badge/-kennyjiahuacheng-003E54?style=flat-square&logo=devpost&logoColor=white&link=kennyjiahuacheng@gmail.com)](mailto:kennyjiahuacheng@gmail.com)
+
+
 <!-- Refs
 https://shields.io
 https://github.com/thmsgbrt/thmsgbrt

@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/kennyjhcheng/kennyjhcheng/issues"
   },
-  "homepage": "https://github.com/kennyjhcheng/kennyjhcheng#readme",
-  "dependencies": {
-    "mustache": "^4.2.0"
-  }
+  "homepage": "https://github.com/kennyjhcheng/kennyjhcheng#readme"
 }

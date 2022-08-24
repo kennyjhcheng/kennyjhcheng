@@ -3,6 +3,11 @@
 
 I am a second year Computer Science student studying at the University of British Columbia.
 
+<!-- Refs
+https://shields.io
+https://hendrasob.github.io/badges/
+https://simpleicons.org/?q=Java
+ -->
 <h3>Connect with me</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@kennyjhcheng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kennyjhcheng)](https://twitter.com/kennyjhcheng)
@@ -16,6 +21,8 @@ I am a second year Computer Science student studying at the University of Britis
 <!-- Refs
 https://shields.io
 https://github.com/thmsgbrt/thmsgbrt
+https://hendrasob.github.io/badges/
+https://simpleicons.org/?q=Java
  -->
 <h3>Things I code with</h3>
 <p>

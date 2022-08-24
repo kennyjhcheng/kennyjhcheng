@@ -36,9 +36,16 @@ https://github.com/thmsgbrt/thmsgbrt
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white" />
 </p>
+
+<!-- Refs
+https://github.com/anuraghazra/github-readme-stats#top-languages-card
+ -->
+| <a href="https://github.com/kennyjhcheng/kennyjhcheng"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kennyjhcheng&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="kennyjhcheng's github stats" /></a> | <a href="https://github.com/kennyjhcheng/kennyjhcheng"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyjhcheng&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <!-- Refs

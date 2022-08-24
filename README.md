@@ -63,6 +63,13 @@ https://simpleicons.org/?q=Java
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white" />
 </p>
 
+<h3>Stats About My Profile</h3>
+
+<!-- Ref
+https://github.com/DenverCoder1/github-readme-streak-stats
+ -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kennyjhcheng)](https://git.io/streak-stats)
+
 <!-- Refs
 https://github.com/anuraghazra/github-readme-stats#top-languages-card
  -->

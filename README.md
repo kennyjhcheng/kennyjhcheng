@@ -1,6 +1,8 @@
 <!-- gif ref: https://slackmojis.com -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> Hey! Nice to see you.</h1>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kennyjhcheng.kennyjhcheng&left_color=green&right_color=red)
+
 I am a second year Computer Science student studying at the University of British Columbia.
 
 <!-- Refs

@@ -1,5 +1,11 @@
-<!-- gif ref: https://slackmojis.com -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> Hey! Nice to see you.</h1>
+<!-- 
+gif ref: https://slackmojis.com
+typing svg: https://github.com/DenverCoder1/readme-typing-svg
+ -->
+<div style="display: flex; justify-content: flex-start">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you+:);I'm+Kenny!&font=Fira%20Code&center=true&width=245&height=50&duration=4000&pause=1000">
+</div>
 
 <!-- Refs
 https://visitor-badge.glitch.me/#docs

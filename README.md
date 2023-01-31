@@ -13,7 +13,7 @@ https://visitor-badge.glitch.me/#docs
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kennyjhcheng.kennyjhcheng&left_color=green&right_color=red) 
 
 
-I am a second year Computer Science student studying at the University of British Columbia.
+I am a fourth year Computer Science student studying at the University of British Columbia.
 
 <!-- Refs
 https://shields.io

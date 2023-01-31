@@ -27,7 +27,7 @@ https://simpleicons.org/?q=Java
 [![Github Badge](https://img.shields.io/badge/-kennyjhcheng-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kennyjhcheng)](https://github.com/kennyjhcheng)
 [![Instagram Badge](https://img.shields.io/badge/-__kennycheng_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_kennycheng/)](https://www.instagram.com/_kennycheng/)
 [![Gmail Badge](https://img.shields.io/badge/-kennyjiahuacheng-D14836?style=flat-square&logo=gmail&logoColor=white&link=kennyjiahuacheng@gmail.com)](mailto:kennyjiahuacheng@gmail.com)
-[![Devpost Badge](https://img.shields.io/badge/-kennyjiahuacheng-003E54?style=flat-square&logo=devpost&logoColor=white&link=kennyjiahuacheng@gmail.com)](mailto:kennyjiahuacheng@gmail.com)
+[![Devpost Badge](https://img.shields.io/badge/-kennyjiahuacheng-003E54?style=flat-square&logo=devpost&logoColor=white&link=kennyjiahuacheng@gmail.com)](https://devpost.com/kennyjiahuacheng)
 
 
 <!-- Refs

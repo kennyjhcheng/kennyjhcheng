@@ -7,13 +7,7 @@ typing svg: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you+:);I'm+Kenny!&font=Fira%20Code&center=true&width=245&height=30&duration=4000&pause=1000" style="padding-top: 10px;"/>
 </div>
 
-<!-- Refs
-https://visitor-badge.glitch.me/#docs
- -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kennyjhcheng.kennyjhcheng&left_color=green&right_color=red) 
-
-
-I am a fourth year Computer Science student studying at the University of British Columbia.
+I am a Computer Science student studying at the University of British Columbia. Nearing graduation and looking for full-time opportunities.
 
 <!-- Refs
 https://shields.io
